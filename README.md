@@ -1,2 +1,2 @@
 # ProyectoBase
-Proyecto base de automatización.
+Proyecto base para automatización.
